@@ -19,7 +19,7 @@
     <p><b>Email :</b> nhamchamnes@gmail.com</p>
     <p><b>Mobile phone :</b> +855 90740433</p>
                 <p><b>Address :</b> Toul Sompov2, Toul Sangkae, Ruessei Keo, Phnom Phenh.</p>
-                <p><b>Youtube :</b> (https://youtu.be/zl_qCaBd_7o?si=IuyDioXmN_bJKR1F)</p>
+                <p><a target = "_blank" href="https://youtu.be/zl_qCaBd_7o?si=IuyDioXmN_bJKR1F">Youtube</a></p>
    </div>
    <div class="Skills">
     <h2>Skills</h2>
